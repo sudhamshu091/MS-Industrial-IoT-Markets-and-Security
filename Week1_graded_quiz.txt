@@ -48,7 +48,7 @@ Ans:GE
     Sensor types, calibration and filtering techniques
     Operating systems and RTOSs
     Cloud platforms and services
-Ans: True
+Ans:True
 
 
 
